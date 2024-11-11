@@ -1,0 +1,7 @@
+D:\repos\ChisMedots\ChisMedots\bin\Debug\ChisMedots.exe.config
+D:\repos\ChisMedots\ChisMedots\bin\Debug\ChisMedots.exe
+D:\repos\ChisMedots\ChisMedots\bin\Debug\ChisMedots.pdb
+D:\repos\ChisMedots\ChisMedots\obj\Debug\ChisMedots.csproj.AssemblyReference.cache
+D:\repos\ChisMedots\ChisMedots\obj\Debug\ChisMedots.csproj.CoreCompileInputs.cache
+D:\repos\ChisMedots\ChisMedots\obj\Debug\ChisMedots.exe
+D:\repos\ChisMedots\ChisMedots\obj\Debug\ChisMedots.pdb
